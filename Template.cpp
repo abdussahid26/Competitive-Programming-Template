@@ -179,9 +179,7 @@ public:
 
         ReadInput();
 
-        TC{
-
-        }
+         
 
     }
 };
