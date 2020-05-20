@@ -1,2 +1,2 @@
 # Template
-Template for competitive programming
+My template for competitive programming.
